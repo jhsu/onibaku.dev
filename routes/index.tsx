@@ -28,8 +28,7 @@ export default function Index() {
         Onibaku
       </h1>
       <p className="text-center text-md text-gray-800">
-        <strong>Aleph.js</strong> gives you the best developer experience for building web applications<br />{" "}
-        with modern toolings.
+        Deploy setup
       </p>
       <div className="flex gap-4 mt-2">
         {externalLinks.map(([text, href]) => (
